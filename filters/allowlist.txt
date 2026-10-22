@@ -1,0 +1,2 @@
+# LightBrowser Custom Allowlist
+# Add trusted domains to exempt from ad blocking, one per line (e.g. example.com)

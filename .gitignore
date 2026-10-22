@@ -1,0 +1,28 @@
+# Build & Output Folders
+[Bb]in/
+[Oo]bj/
+release/
+x64/
+x86/
+
+# Visual Studio & IDE files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Sikrowser Runtime UserData (InPrivate session traces & local data)
+UserData/
+*.log
+*.tmp
+
+# Windows Desktop & Explorer artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+
+# Inno Setup output
+installer/Output/
